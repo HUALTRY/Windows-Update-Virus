@@ -1,2 +1,4 @@
-# 伪装成 Windows 10 系统更新程序的恶搞病毒
-这是一个糟糕的恶搞程序，有很多的缺陷和不足。而且很多地方使用了一些“笨方法”来实现。期待您的加入，来完善它。
+# A Prank Program Disguised as a Windows 10 System Update
+
+This is an experimental program I developed, admittedly with significant technical debt. As such, it should be considered merely a proof-of-concept or a toy implementation.
+
